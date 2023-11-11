@@ -49,7 +49,36 @@
 
 ## 硬件
 
+- [x] GPU加速：内置`Intel UHD 630`
+- [x] GPU 加速：（`RX 570`开箱即用）
+- [x] 以太网⚡
+- [x] 音频（前面板耳机）
+- [x] 音频（后面板耳机）
+- [x] USB A 端口
+- [x] SD卡插槽
+- [x] NVMe固态硬盘
+- [x] 无线网络⚡
+- [x] 蓝牙⚡
+- [x] USB C 端口
+- [x] Airpods Pro（电池电量/降噪模式开关）
+- [x] CPU 电源管理（使用 Intel Power Gadget 测试）
+
 ## 软件
+
+- [x] 安装程序、应用程序商店、应用程序更新
+- [x] 直接从 Apple 更新 MacOS
+- [x] APFS、SSD 修剪
+- [x] iMessage、iCloud、Siri、iTunes、其他服务
+- [ ] 切换、连续性、通用剪贴板：**内置`Intel AX200`**
+- [x] 切换、连续性、通用剪贴板：**Broadcom`BCM94360CS2`**
+- [x] Metal、GPU 加速应用程序：**内置`Intel UHD 630`**
+- [x] 金属、GPU 加速应用：**Sapphire Pulse`RX 570`**
+- [x] 时光机器
+- [x] 睡眠模式
+- [x] 关机/睡眠/唤醒
+- [x] 安排启动或唤醒
+- [x] 屏幕共享 (VNC)
+- [ ] 屏幕共享唤醒
 
 ## 🔧 添加 Broadcom `BCM94360CS2`wifi 卡
 
