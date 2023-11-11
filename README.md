@@ -1,1 +1,0 @@
-# NUC9I7QNX-OpenCore
